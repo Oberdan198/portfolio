@@ -9,6 +9,8 @@ footer{
     background-color: black;
     padding: 30px;
     color: white;
+    top: 0;
+    bottom: 0;
 }
 
 #topMenu {
@@ -89,4 +91,5 @@ footer{
 .imagemNav3{
     width: 2vw;
     height: 4vh;
+    border-radius: 20px; 
 }
