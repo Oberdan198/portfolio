@@ -89,4 +89,14 @@ footer{
 .imagemNav3{
     width: 2vw;
     height: 4vh;
+    border-radius: 50%;
+}
+
+.circle{
+    background-color: #aaa;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    position: relative;
 }
