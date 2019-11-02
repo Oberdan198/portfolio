@@ -11,12 +11,12 @@ footer{
     color: white;
 }
 
-#topMenu {
+.topMenu {
     display: flex;
     background: #302f2f;
     margin: 0;
 }
-#topMenu li {
+.topMenu li {
     color: white;
     display: block;
     text-decoration: none;
