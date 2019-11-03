@@ -94,6 +94,9 @@ footer{
 .circle{
     background-color: #aaa;
     border-radius: 50%;
+    border-width: medium;
+    border-style: solid;
+    border-color: #302f2f;
     width: 150px;
     height: 150px;
     overflow: hidden;
