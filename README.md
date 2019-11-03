@@ -1,4 +1,4 @@
-# Portfólio (não responsivo)
+# Portfólio (não-responsivo)
  
 # Oberdan Camilo Mendonça Junior
   Desenvolvedor Iniciante
