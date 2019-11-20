@@ -6,6 +6,8 @@
 # Conhecimentos básicos :
   * HTML;
   * CSS;
+  * JavaScript;
   * Java + POO;
-  * Banco de Dados (MySql);
+  * MySQL;
+  * PostgreSQL;;
   * Git.
