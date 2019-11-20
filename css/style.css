@@ -102,3 +102,73 @@ footer{
     overflow: hidden;
     position: relative;
 }
+
+@media (max-width: 320px){
+    body{ 
+        font-size: 10px;
+    }
+    .section1 h5{
+        padding: 15px;
+        font-size: 15px;
+    }
+    .section1 h1{
+        font-size: 30px;
+    }
+
+    .section2{
+        height: 50vw;
+    }
+    
+    .section3{
+        height: 50vw;
+    }
+
+    .imagemNav1{
+        width: 7vw;
+        height: 7vh;
+    }
+    .imagemNav2{
+        width: 7vw;
+        height: 7vh;
+    }
+    .imagemNav3{
+        width: 7vw;
+        height: 7vh;
+    }
+    footer{
+        padding: 10px;
+    }
+}
+
+@media (max-width: 480px){
+    body{
+        font-size: 15px;
+    }
+
+    .section1 h5{
+        font-size: 16px;
+    }
+    .imagemNav1{
+        width: 7vw;
+        height: 7vh;
+    }
+    .imagemNav2{
+        width: 7vw;
+        height: 7vh;
+    }
+    .imagemNav3{
+        width: 7vw;
+        height: 7vh;
+    }
+
+    .section2{
+        height: 50vw;
+    }
+    .section3{
+        height: 50vw;
+    }
+
+    footer{
+        padding: 10px;
+    }
+}
